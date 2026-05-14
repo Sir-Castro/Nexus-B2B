@@ -236,7 +236,7 @@ export const mockOrders: Order[] = [
     trackingNumber: 'SF1234567890CN',
     notes: 'Please double box fragile items.',
     tracking: [
-      { status: 'Order Placed', location: 'WholesaleHub Platform', timestamp: '2024-12-01 09:00', completed: true },
+      { status: 'Order Placed', location: 'Nexus B2B', timestamp: '2024-12-01 09:00', completed: true },
       { status: 'Order Confirmed', location: 'Shenzhen, China', timestamp: '2024-12-01 14:32', completed: true },
       { status: 'Picked & Packed', location: 'Shenzhen Warehouse', timestamp: '2024-12-03 11:15', completed: true },
       { status: 'In Transit', location: 'Hong Kong Air Cargo', timestamp: '2024-12-05 08:40', completed: true },

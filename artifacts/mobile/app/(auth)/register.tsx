@@ -70,7 +70,7 @@ export default function RegisterScreen() {
         </LinearGradient>
 
         <Text style={[styles.title, { color: colors.text }]}>Create Account</Text>
-        <Text style={[styles.subtitle, { color: colors.mutedForeground }]}>Join thousands of B2B businesses on WholesaleHub</Text>
+        <Text style={[styles.subtitle, { color: colors.mutedForeground }]}>Join thousands of B2B businesses on Nexus B2B</Text>
 
         {error ? (
           <View style={[styles.errorBox, { backgroundColor: '#FEEBEB', borderColor: '#FECACA' }]}>

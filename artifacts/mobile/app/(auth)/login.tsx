@@ -51,7 +51,7 @@ export default function LoginScreen() {
           <View style={styles.logoWrap}>
             <Feather name="globe" size={28} color="#00BFA5" />
           </View>
-          <Text style={styles.brandName}>WholesaleHub</Text>
+          <Text style={styles.brandName}>Nexus B2B</Text>
           <Text style={styles.brandTag}>B2B Commerce Platform</Text>
         </View>
       </LinearGradient>
@@ -64,7 +64,7 @@ export default function LoginScreen() {
           showsVerticalScrollIndicator={false}
         >
           <Text style={[styles.title, { color: colors.text }]}>Sign In</Text>
-          <Text style={[styles.subtitle, { color: colors.mutedForeground }]}>Access your wholesale account</Text>
+          <Text style={[styles.subtitle, { color: colors.mutedForeground }]}>Access your business account</Text>
 
           {error ? (
             <View style={[styles.errorBox, { backgroundColor: '#FEEBEB', borderColor: '#FECACA' }]}>
@@ -151,7 +151,7 @@ export default function LoginScreen() {
           </TouchableOpacity>
 
           <View style={styles.registerRow}>
-            <Text style={[styles.registerText, { color: colors.mutedForeground }]}>New to WholesaleHub?</Text>
+            <Text style={[styles.registerText, { color: colors.mutedForeground }]}>New to Nexus B2B?</Text>
             <TouchableOpacity onPress={() => router.push('/(auth)/register')}>
               <Text style={[styles.registerLink, { color: colors.primary }]}> Create Account</Text>
             </TouchableOpacity>

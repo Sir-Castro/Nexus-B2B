@@ -1,6 +1,6 @@
-# [Project name]
+# Nexus B2B: The Unified Wholesale & Procurement Ecosystem
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A comprehensive full-stack B2B marketplace platform for managing supplier relationships, procurement, and enterprise credit.
 
 ## Run & Operate
 
