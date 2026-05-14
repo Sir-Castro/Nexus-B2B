@@ -1,0 +1,87 @@
+Design and develop a modern mobile application for a Wholesale B2B E-commerce Platform that connects suppliers, manufacturers, distributors, and retailers in a seamless digital marketplace. The app should enable businesses to manage procurement, bulk purchasing, supplier relationships, and logistics directly from mobile devices.
+
+The platform should support scalable enterprise operations while delivering a clean, intuitive, and high-performance mobile experience for Android and iOS users.
+
+Core objectives:
+
+Simplify wholesale buying and selling
+Enable efficient bulk order management
+Improve communication between suppliers and retailers
+Provide secure and transparent B2B transactions
+Support enterprise-scale commerce workflows
+
+Key features:
+
+User authentication and business onboarding
+Secure registration and login
+Business profile creation and verification
+Role-based access for suppliers, retailers, logistics partners, and admins
+KYC and supplier verification system
+Supplier marketplace
+Browse and search suppliers by category, location, rating, and industry
+Supplier storefronts with catalogs and company profiles
+Product filtering and advanced search
+Featured and verified suppliers section
+Product catalog and inventory management
+Bulk product listings with variants and specifications
+Inventory tracking and stock availability
+MOQ (Minimum Order Quantity) management
+Tiered pricing and wholesale discounts
+Product images, videos, and downloadable brochures
+Bulk ordering system
+Add products in large quantities
+RFQ (Request for Quotation) functionality
+Repeat orders and saved procurement lists
+Smart cart optimized for wholesale transactions
+Multi-supplier checkout support
+Negotiated pricing and credit terms
+Real-time price negotiation between buyers and suppliers
+Quote approval workflows
+Flexible credit terms (Net 7, Net 30, Net 60)
+Invoice generation and payment scheduling
+Buyer credit scoring and spending limits
+Logistics and delivery tracking
+Real-time shipment and delivery tracking
+Integration with third-party logistics providers
+Delivery status notifications
+Warehouse and fulfillment monitoring
+Shipping cost estimation and route updates
+Payments and financial management
+Secure online payments
+Multiple payment methods and currencies
+Escrow or milestone payment support
+Transaction history and receipts
+Tax and VAT calculations
+Communication and collaboration
+In-app messaging between retailers and suppliers
+Quote negotiation chat system
+Push notifications for orders, deliveries, and payments
+Business announcements and alerts
+Analytics and reporting
+Sales and procurement dashboards
+Revenue and order analytics
+Supplier performance metrics
+Downloadable invoices and reports
+Demand forecasting insights
+Security and scalability
+Enterprise-grade authentication and encryption
+Cloud-based scalable infrastructure
+Data backup and recovery
+Admin moderation and fraud detection
+
+Technical requirements:
+
+Mobile-first responsive design
+Android and iOS support
+Offline support for saved catalogs and order drafts
+Fast and scalable API architecture
+Optimized performance for high-volume transactions
+
+Suggested technologies:
+
+Frontend: Flutter or React Native
+Backend: Node.js, Django, or Laravel
+Database: PostgreSQL, MySQL, or MongoDB
+Cloud services: AWS, Google Cloud, or Azure
+Payments: Stripe, Flutterwave, PayPal, or M-Pesa
+Maps and logistics APIs: Google Maps API and shipping provider APIs
